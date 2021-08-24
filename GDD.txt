@@ -1,0 +1,31 @@
+Fannon Codder Design
+
+Game goal
+Lead a platoon through terrain in 3D, eliminating enemy.
+
+
+Win/Lose condition
+There are stages. You win a stage when stage task is completed (normally wipeout of enemy). You lose when you don't have any live soldiers. Thence you start the phase over. You have a set of recruits who are eager to replace those fallen in combat.
+
+
+Rules
+Soldiers have 50% chance of dying when hit with a bullet and 50% chance of getting injured (can't move but can be healed by medic and not expended if they are still alive at phase end).
+Ammo is unlimited though reload is needed.
+Scout, medic and driver are equipped with pistols, while heavy weaponry master is equipped with a minigun.
+All soldiers can use grenades, but rockets can only be used by heavy weaponry master.
+Scout is not visible to enemy unless standing next to them or shooting. Grenade throwing is considered silent.
+Driver gets extra speed and maneuverability when in vehicle.
+
+
+Features
+The platoon has several speciality soldiers: machinegunner, heavy weaponry master, scout, medic, and driver.
+You can drive vehicles and blow up enemy buildings with heavy weaponry.
+You can split the platoon in many.
+You have access to area map.
+Game keeps the count of enemy soldiers you have destroyed vs. your fallen warriors.
+
+
+Resource requirements
+Sound effects of shooting, grenade and rocket explosions, building collapse, vehicle engine work, and ambient sounds.
+Static meshes of buildings, explosive elements, barrels, trees, stones.
+Skeleton meshes of soldiers.
